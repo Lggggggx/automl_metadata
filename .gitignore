@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+query_time50
+tmp*
+*.npy
+*.joblib
